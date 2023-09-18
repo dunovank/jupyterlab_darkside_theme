@@ -13,7 +13,7 @@ mimetype: ''
 mimetype_name: ''
 project_short_description: A dark theme for JupyterLab.
 python_name: jupyterlab_darkside_theme
-repository: ''
+repository: 'https://github.com/dunovank/jupyterlab_darkside_theme'
 test: true
 viewer_name: ''
 
