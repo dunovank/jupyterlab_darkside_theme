@@ -1,15 +1,15 @@
 {
     "name": "jupyterlab_darkside_theme",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "A dark theme for JupyterLab.",
     "keywords": [
         "jupyter",
         "jupyterlab",
         "jupyterlab-extension"
     ],
-    "homepage": "",
+    "homepage": "https://github.com/dunovank/jupyterlab_darkside_theme",
     "bugs": {
-        "url": "/issues"
+        "url": "https://github.com/dunovank/jupyterlab_darkside_theme/issues"
     },
     "license": "BSD-3-Clause",
     "author": {
@@ -24,7 +24,7 @@
     "types": "lib/index.d.ts",
     "repository": {
         "type": "git",
-        "url": ".git"
+        "url": "https://github.com/dunovank/jupyterlab_darkside_theme.git"
     },
     "workspaces": [
         "ui-tests"
