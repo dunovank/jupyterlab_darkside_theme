@@ -1,7 +1,10 @@
 # jupyterlab_darkside_theme
 
 [![Github Actions Status](/workflows/Build/badge.svg)](/actions/workflows/build.yml)
+
 A dark theme for JupyterLab.
+
+![](./darkside_preview.png)
 
 ## Requirements
 
